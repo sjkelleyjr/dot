@@ -6,6 +6,9 @@ To install, download the expo app from your app store, then snap a picture of th
 
 [dot](https://expo.io/@sjkelleyjr/dot)
 
+<center>
+
 ![dot-logo](./dot_logo.png)
 
+</center>
 
